@@ -69,11 +69,11 @@ export default {
           description: `串接一組列表資料api\n[https://mocki.io/fake-json-api](https://mocki.io/fake-json-api)`,
         },
         {
-          complete: false,
+          complete: true,
           description: `程式架構做到最大的沿用性、維護性，並於Readme說明你的想法`,
         },
         {
-          complete: false,
+          complete: true,
           description: `使用Firebase Hosting，提供連結給我們進行瀏覽`,
         },
         {
