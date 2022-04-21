@@ -1,0 +1,32 @@
+$nature: #519e8a;
+$nature-light: #e4f1ee;
+$nature-dark: #476a6f;
+
+$elegant: #bcb8b1;
+$elegant-light: #f4f3ee;
+$elegant-dark: #463f3a;
+
+$pink: #bc96e6;
+$pink-light: #eadef7;
+$pink-dark: #55286f;
+
+$sky: #5db6ea;
+$sky-light: #c9e7f8;
+$sky-dark: #0b3954;
+
+$theme-colors: (
+  "light": white,
+  "dark": black,
+  "nature": $nature,
+  "nature-light": $nature-light,
+  "nature-dark": $nature-dark,
+  "elegant": $elegant,
+  "elegant-light": $elegant-light,
+  "elegant-dark": $elegant-dark,
+  "pink": $pink,
+  "pink-light": $pink-light,
+  "pink-dark": $pink-dark,
+  "sky": $sky,
+  "sky-light": $sky-light,
+  "sky-dark": $sky-dark,
+);
